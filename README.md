@@ -28,7 +28,7 @@ Work through these in order. Each one builds on the last.
 | [**01 - Setup**](./TUTORIAL_01_SETUP.md) | How to configure `robot_config.py` for your specific robot. |
 | [**02 - Hub Menu**](./TUTORIAL_02_HUB_MENU.md) | How to add and run missions from the Hub's built-in menu. |
 | [**03 - Missions & Movement**](./TUTORIAL_03_MISSIONS.md) | The basic movement commands and how to make the robot do multiple things at once. |
-| [**04 - Curves & Wall Squaring**](./TUTORIAL_04_CURVES_AND_WALLS.md) | Advanced techniques to save time and regain accuracy mid-match. |
+| [**04 - Speed & Accuracy**](./TUTORIAL_04_SPEED_AND_ACCURACY.md) | Advanced techniques to save time and regain accuracy mid-match. |
 
 ---
 
@@ -47,7 +47,7 @@ Work through these in order. Each one builds on the last.
 ├── TUTORIAL_01_SETUP.md
 ├── TUTORIAL_02_HUB_MENU.md
 ├── TUTORIAL_03_MISSIONS.md
-└── TUTORIAL_04_CURVES_AND_WALLS.md
+└── TUTORIAL_04_SPEED_AND_ACCURACY.md
 ```
 
 ---
