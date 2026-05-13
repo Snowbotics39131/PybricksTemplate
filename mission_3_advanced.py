@@ -12,7 +12,7 @@ Key Concepts Demonstrated:
 - Fire-and-forget: Using async without `await` to fling arms while driving away.
 """
 
-from robot_config import 
+from robot_config import *
 from pybricks.tools import StopWatch, wait
 from pybricks.parameters import Stop
 
